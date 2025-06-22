@@ -1,4 +1,4 @@
-# PUBG Cheat – Advanced PUBG Aimbot cheat & ESP Tool
+discord.gg/SfkrK75HNj# PUBG Cheat – Advanced PUBG Aimbot cheat & ESP Tool
 
 Welcome to the official documentation for **PUBG Cheat**, a professional-grade, external software solution designed to give PUBG players a tactical advantage while maintaining maximum safety from detection. Featuring a high-performance **PUBG aimbot**, intelligent ESP overlays, and powerful quality-of-life enhancements like HWID spoofing and streamproof rendering, this cheat is built for both performance and stealth.
 
@@ -6,9 +6,9 @@ In this project, you’ll learn exactly what **PUBG Cheat** offers, how it works
 
 ---
 
-[![Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/invite/elusiongg)
+[![Discord](https://img.shields.io/discord/1180734837510897755?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
-[![pubg cheat](https://github.com/pubgundetected/pubg-cheat/blob/main/51b3cdb0-6ef4-46ef-954e-e554516156e0.png)](https://discord.gg/invite/elusiongg) 
+[![pubg cheat](https://github.com/pubgundetected/pubg-cheat/blob/main/51b3cdb0-6ef4-46ef-954e-e554516156e0.png)](https://discord.gg/SfkrK75HNj) 
 
 ## 🎯 What is PUBG Cheat?
 
